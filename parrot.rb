@@ -3,5 +3,5 @@
 
 def parrot
 puts "Squawk!"
-return parrot
+print parrot
 end
