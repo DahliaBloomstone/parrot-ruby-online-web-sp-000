@@ -2,7 +2,5 @@
 # returns the phrase
 
 def parrot(string)
-string = "Squawk!"
-return parrot
-puts string
+parrot_noise = "Squawk!"
 end
