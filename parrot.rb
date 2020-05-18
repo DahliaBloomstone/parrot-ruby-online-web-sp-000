@@ -3,4 +3,5 @@
 
 def parrot(string)
 string = "Squawk!"
+return parrot
 end
